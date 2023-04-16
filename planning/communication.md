@@ -1,26 +1,37 @@
 # Communication
 
+We have chosen Slack and Zoom as main communication channels. We can write
+anytime when we need help and depends on availability of free time of team
+members then someone can offers a hand for help.
+
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- [x] We help each other.
 
----
+- [x] We respect each others ideas and opinions.
+
+- [x] We listen to each other for ideas and solution.
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day |     How      | The topic of discussion                                      |
+| --- | :----------: | ------------------------------------------------------------ |
+| Su  |    Ofline    | Brainstoming                                                 |
+| Mon | Zoom Meeting | Communication, constrains, UP, Backlog, Development strategy |
+| Tue | Zoom Meeting | Wireframe, code                                              |
+| Wed | Zoom Meeting | Code                                                         |
+| Thu | Zoom Meeting | Code, README.md                                              |
+| Fri | Zoom Meeting | Code, retrospective                                          |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: often.
+- **Pull Requests**:every day
+- **GitHub Discussions**: reraly.
+- **Slack/Discord**: every day.
+- **Video Calls**: every day.
 
 ---
 
@@ -28,17 +39,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| Nana    | 10 - 20 | 16 - 20 |  16 - 20  | 16 - 20  | 16 - 20 | 16 - 20  | 12 - 16 |
+| Saida   | 13 - 16 | 8 - 00  |  13 - 16  |  8 - 00  | 13 - 16 | 13 - 16  | 12 - 16 |
+| Biniam  | 14 - 18 | 14 - 18 |  14 - 18  | 14 - 18  | 14 - 18 | 14 - 18  | 12 -16  |
+| Radimir | 6 - 00  | 6 - 00  |  6 - 00   |  6 - 00  | 6 - 00  |  6 - 00  | 6 - 00  |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Saida: _5h_;
+- Nana: _5h_;
+- Beniam: _5h_;
+- Radimir: _24h_;
 
 ## Asking for Help
 
