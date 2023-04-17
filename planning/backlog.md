@@ -38,12 +38,14 @@ These tasks are prioritized based on their importance and values.
       future.
 - [ ] As a user I want to see the responsive website.
 - [ ] As a user I want to see more information about the impact of hack your
-      future.
+      future community in Belgium.
 
 ## Could-Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see an image then I will have a clear idea about the
+      teaching process.
+- [ ] As a user I want to see more information about the supporters of the
+      program.
+- [ ] As a user I want to see a the core values of the website.
