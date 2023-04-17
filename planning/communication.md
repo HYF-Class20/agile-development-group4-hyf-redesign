@@ -16,7 +16,7 @@ members then someone can offers a hand for help.
 
 | Day |     How      | The topic of discussion                                      |
 | --- | :----------: | ------------------------------------------------------------ |
-| Su  |    Ofline    | Brainstoming                                                 |
+| Su  |    Online    | Brainstorming                                                |
 | Mon | Zoom Meeting | Communication, constrains, UP, Backlog, Development strategy |
 | Tue | Zoom Meeting | Wireframe, code                                              |
 | Wed | Zoom Meeting | Code                                                         |
