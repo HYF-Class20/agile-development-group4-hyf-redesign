@@ -15,7 +15,7 @@ During our team meeting, it was agreed that all tasks assigned to team members
 will have a specific deadline, and each task must be completed within the given
 time frame. In case of any confusion or queries, team members are encouraged to
 express their concerns via Slack. One of our team members will be available to
-help with the task and clarify any doubts
+help with the task and clarify any doubts.
 
 ## UI design or color schemes
 
