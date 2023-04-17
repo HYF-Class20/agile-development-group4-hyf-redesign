@@ -29,7 +29,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - **Issues**: often.
 - **Pull Requests**:every day
-- **GitHub Discussions**: reraly.
+- **GitHub Discussions**: rarely.
 - **Slack/Discord**: every day.
 - **Video Calls**: every day.
 

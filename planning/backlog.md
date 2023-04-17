@@ -27,16 +27,18 @@ These tasks are prioritized based on their importance and values.
 
 - [ ] As a user I want to see the footer section.
 - Which consists the address, email, phone numbers and the list social medias
-  icons like facebook, instagram.... that I can follow and read more about the
-  program.
+  icons like facebook, instagram.... so that I can follow and read more about
+  the program.
 
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the information about the partners of hack your
+      future.
+- [ ] As a user I want to see the responsive website.
+- [ ] As a user I want to see more information about the impact of hack your
+      future.
 
 ## Could-Haves
 
