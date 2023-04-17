@@ -56,7 +56,9 @@ please follow these guidelines:
 
 ## Conclusion
 
+In conclusion, redesigning the website for Hack Your Future is an exciting opportunity to create a user-friendly and visually appealing platform that showcases the program's values and benefits. The redesigned website will provide a seamless experience for potential students to explore the program's offerings and will highlight the supportive community and resources available to them. By leveraging modern web development technologies and collaborative teamwork, we aim to deliver a high-quality product that reflects the program's commitment to excellence and inclusivity.
 
+Thank you for visiting HYF redesign.
 
 ## Code Contributors
 
