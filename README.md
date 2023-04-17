@@ -1,129 +1,113 @@
-# Name of project
+# Hack Your Future redesign
 
-> A longer description
+The Hack Your Future website is a modern and user-friendly platform that
+showcases the 9-month web development program in Brussels and Antwerp, featuring
+updated layout, navigation, and content to better serve students and coaches,
+and provide clear information on the curriculum and goals.
+
+## Description
+
+This project aims to redesign the website for Hack Your Future, a 9-month web
+development program that takes place on Sundays in Brussels and Antwerp. The
+program is divided into 12 modules, with the last module being a 6-week
+intensive final project. The website currently has a modern design, but it could
+be improved to better serve the needs of the students and coaches.
+
+The project will involve updating the website's layout, navigation, and content
+to make it more user-friendly and informative. The redesigned website should
+make it easy for prospective students to apply and for current students to
+access resources and support. It should also provide a clear overview of the
+program's curriculum and goals.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
-  - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
-  - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
-  - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
+- [Branching Out](#branching-out)
+  - [Project title](#project-title)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#Description)
+  - [Content](#content)
+  - [Interactive Tools](#interactive-tools)
+  - [Technology Used](#technology-used)
 
-## General info
+## Content
 
-> A short description
+The content of the Hack Your Future website includes various sections and pages
+that aim to inform visitors about the features of the program. Some of the main
+content elements of the website include:
 
-## Screenshots
+- _Home Page_:The home page is the main landing page of the website and serves
+  as an introduction to the program. It contains a presentation of the program,
+  core values, success stories, sponsors/partners, and a contact us section. The
+  goal of the redesign will be to make the content more visually appealing and
+  accessible, with a clear call-to-action for potential students and supporters.
 
-![Example screenshot](./planning/screenshot.jpg)
+- _Program page_:The program page provides a detailed overview of the program,
+  including the curriculum, schedule, and eligibility criteria for applicants.
+  The redesign will aim to make the information more comprehensive and
+  user-friendly, with clear navigation and visual cues that highlight the
+  program's unique features and benefits.
 
-## Technologies
+- _Volunteer page_:The volunteer page provides information for future volunteer
+  coaches/mentors and a list of active coaches/mentors. The redesign will aim to
+  make it easier for potential volunteers to learn about the program and apply
+  to become a coach/mentor, with clear instructions and contact information.
 
-- Node 14.16.0
-- VSC code
-- JavaScript
-- ...
-- ...
+- _About page_: The about page provides the history of the program and the team
+  behind it. The redesign will aim to make the content more engaging and
+  informative, with a clear narrative that highlights the program's impact and
+  evolution over time.
 
-## Setup
+- _FAQ page_: The FAQ page contains frequently asked questions for applicants,
+  volunteers, and partners. The redesign will aim to make the content more
+  comprehensive and accessible, with clear categorization and visual aids that
+  make it easy for users to find the information they need.
 
-- `npm run start`
+- _Support Us page_: The support us page provides information on how to support
+  the program financially, including different donation options. The redesign
+  will aim to make it easier for supporters to donate and get involved, with
+  clear instructions and call-to-action buttons that encourage engagement.
 
-## Code Examples
+## Technology Used
 
-```js
-// the hello world program
-console.log("Hello World");
-```
+The website is built using HTML, CSS, and JavaScript, and is fully responsive,
+adapting seamlessly to different screen sizes and devices. It features a range
+of interactive elements, including vavigation menu, and a contact form, which
+help to enhance the user experience.
 
-## Features
+## Contribution Guidelines
 
-List of features ready and Todos for future development
+Contributions to this project are welcome! If you would like to contribute,
+please follow these guidelines:
 
--
--
--
+- Fork the repository and create a new branch for your changes.
+- Choose from the following types of contributions:
 
-To-do list:
+  - Bug fixes
+  - New features
 
--
--
+## Conclusion
 
-## Status
+In conclusion, redesigning the website for Hack Your Future is an exciting
+opportunity to create a user-friendly and visually appealing platform that
+showcases the program's values and benefits. The redesigned website will provide
+a seamless experience for potential students to explore the program's offerings
+and will highlight the supportive community and resources available to them. By
+leveraging modern web development technologies and collaborative teamwork, we
+aim to deliver a high-quality product that reflects the program's commitment to
+excellence and inclusivity.
 
-Project is: _in progress_
+Thank you for visiting HYF redesign.
 
-## Inspiration
+## Code Contributors
 
-Project by freeCodeCamp.org
+This project exists thanks to all the people who contribute.
 
-## Contact
+- [Saida](https://github.com/saidakf)
+- [Nana](https://github.com/Nana99999)
+- [Biniam](https://github.com/Biniam2023)
+- and other contributors have worked hard to make this project a success.
 
-By [Name]
+## License
 
-## Instructions for use
-
-<details>
-  <summary>Getting Started</summary>
-
-<!-- a guide to using this repository -->
-
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
-
-## Code Quality Checks
-
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Checks to make sure all folder and file names match the
-  repository conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository.
-- `npm run lint:css`: Will lint all of the CSS files in this repository.
-- `npm run validate:html`: Validates all HTML files in your project.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
-- `npm run accessibility -- ./path/to/file.html`: Runs an accessibility analysis
-  on all HTML files in the given path and writes the report to
-  `/accessibility_report`
-
-## Continuous Integration (CI)
-
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running the code quality scripts
-locally.
-
-## Repo Setup
-
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- In _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
-
-</details>
+This project is licensed under the
+[MIT License](https://github.com/HYF-Class20/home/blob/main/LICENSE).
