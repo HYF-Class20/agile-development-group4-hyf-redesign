@@ -75,4 +75,4 @@ objectives.
 
 We have determined the number of hours that we want to dedicate to working on
 the project each week. By setting these boundaries, we can ensure that everyone
-is working consistently and avoid burning out or overworking.
+is working consistently and avoid overworking or burning out.
