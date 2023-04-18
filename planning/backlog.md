@@ -1,30 +1,50 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+We prioritized the list of tasks that need to be implemented in to our project.
+These tasks are prioritized based on their importance and values.
 
 ## Must-Haves
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the main navigation menu at the top so that I can
+      access different pages on the website.
+  - The navigation link with following sections The Program, Volunteer,
+    Digitalents, About, FAQ, button for apply.
+- [ ] As a user I would like to see the Logo of Hack your future, then I can
+      easily differentiate the website.
+- [ ] As a user I want to see the resource page, then I can find a list of
+      online videos and tutorials.
+- [ ] As a user I would like to see the mentors page, then I can see a list of
+      volunteers who are available to offer guidance and support to students.
+- [ ] As a user I want to see the success stories from previous graduates, so
+      that...
+- I feel inspired by their journeys.
+- [ ] As a user I want to see the main section.
+- Which consists a very details of the program and the contact us sections then
+  I can easily contact to the organization.
+
+- [ ] As a user I want to see the footer section.
+- Which consists the address, email, phone numbers and the list social medias
+  icons like facebook, instagram.... so that I can follow and read more about
+  the program.
 
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the information about the partners of hack your
+      future.
+- [ ] As a user I want to see the responsive website.
+- [ ] As a user I want to see more information about the impact of hack your
+      future community in Belgium.
 
 ## Could-Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see an image then I will have a clear idea about the
+      teaching process.
+- [ ] As a user I want to see more information about the supporters of the
+      program.
+- [ ] As a user I want to see a the core values of the website.
