@@ -1,6 +1,9 @@
-# Project Name
+# Hack Your Future redesign
 
-<!-- describe your project -->
+The Hack Your Future website is a modern and user-friendly platform that
+showcases the 9-month web development program in Brussels and Antwerp, featuring
+updated layout, navigation, and content to better serve students and coaches,
+and provide clear information on the curriculum and goals.
 
 ---
 
