@@ -45,6 +45,8 @@ These tasks are prioritized based on their importance and values.
 - [ ] As a user I want to see the footer section in the program page, then I can
       have the full address, email, phone numbers.
 
+---
+
 ### Volunteer page
 
 - [ ] Acceptance criteria the logo should be at the left corner.
@@ -54,7 +56,11 @@ These tasks are prioritized based on their importance and values.
 - [ ] As a user I would like to see two buttons under the main section one for
       coaches and the second for mentors.
 
+---
+
 ## Should-Haves
+
+### home page
 
 > these will complete the user experience, but are not necessary
 
@@ -63,6 +69,25 @@ These tasks are prioritized based on their importance and values.
 - [ ] As a user I want to see the responsive website.
 - [ ] As a user I want to see more information about the impact of hack your
       future community in Belgium.
+
+---
+
+### Program page
+
+- [ ] As a user I want to see the information about 9-month program.
+- [ ] As a user I want to see the section about final project.
+- [ ] As a user I want to see the information become a mentor and the career
+      skills sessions.
+
+---
+
+### Volunteer page
+
+- [ ] As a user I would like to see the section why should I volunteer at HYF,
+      so that I can understand the aim of the program.
+- [ ] As a user, I would like to access the 'Discover Our Coaches Guidebook'
+      section so that I can read about the dedication of the coaches and be
+      inspired as a volunteer
 
 ## Could-Haves
 
