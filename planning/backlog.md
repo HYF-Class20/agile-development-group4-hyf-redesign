@@ -7,27 +7,52 @@ These tasks are prioritized based on their importance and values.
 
 > these are necessary for basic usability
 
+### Home page
+
+- [ ] Acceptance criteria the logo should be at the left corner of the page and
+      the button for apply in the middle udder the logo.
 - [ ] As a user I want to see the main navigation menu at the top so that I can
       access different pages on the website.
-  - The navigation link with following sections The Program, Volunteer,
-    Digitalents, About, FAQ, button for apply.
-- [ ] As a user I would like to see the Logo of Hack your future, then I can
-      easily differentiate the website.
-- [ ] As a user I want to see the resource page, then I can find a list of
-      online videos and tutorials.
+- [ ] As a user the I would like to see the navigation link with following
+      sections.The Program and Volunteer.
+- [ ] As a user I want to see the the contact us section so that I can access to
+      the contact person of the website.
 - [ ] As a user I would like to see the mentors page, then I can see a list of
       volunteers who are available to offer guidance and support to students.
 - [ ] As a user I want to see the success stories from previous graduates, so
-      that...
-- I feel inspired by their journeys.
-- [ ] As a user I want to see the main section.
-- Which consists a very details of the program and the contact us sections then
-  I can easily contact to the organization.
+      that...I feel inspired by their journeys.
+- [ ] As a user I want to see the main section. Which consists a very details of
+      the program.
+- [ ] As a user I would to see FAQ section in the lower home page of the
+      website.
+- [ ] As a user I want to see the footer section, then I can have the full
+      address, email, phone numbers and the list social medias icons like
+      facebook, twitter, github, linkedin.... so that I can follow and read more
+      about the program.
 
-- [ ] As a user I want to see the footer section.
-- Which consists the address, email, phone numbers and the list social medias
-  icons like facebook, instagram.... so that I can follow and read more about
-  the program.
+---
+
+### Program page
+
+- [ ] Acceptance criteria the logo should be at the left corner.
+- [ ] As a user I would like the same navigation links as in the home page.
+- [ ] As a user it would be interesting in accessing the main section of a
+      program, where they can find information about the time and location of
+      the program.
+- [ ] As a user I would to see the button for under the details of the main
+      section.
+- [ ] As a user I want to see the section who can apply for program.
+- [ ] As a user I want to see the footer section in the program page, then I can
+      have the full address, email, phone numbers.
+
+### Volunteer page
+
+- [ ] Acceptance criteria the logo should be at the left corner.
+- [ ] As a user I would like the same navigation links as in the home page.
+- [ ] As a user I would like to see the main section in this page the details
+      over volunteer.
+- [ ] As a user I would like to see two buttons under the main section one for
+      coaches and the second for mentors.
 
 ## Should-Haves
 
