@@ -3,6 +3,8 @@
 We prioritized the list of tasks that need to be implemented in to our project.
 These tasks are prioritized based on their importance and values.
 
+---
+
 ## Must-Haves
 
 > these are necessary for basic usability
@@ -30,8 +32,6 @@ These tasks are prioritized based on their importance and values.
       facebook, twitter, github, linkedin.... so that I can follow and read more
       about the program.
 
----
-
 ### Program page
 
 - [ ] Acceptance criteria the logo should be at the left corner.
@@ -44,8 +44,6 @@ These tasks are prioritized based on their importance and values.
 - [ ] As a user I want to see the section who can apply for program.
 - [ ] As a user I want to see the footer section in the program page, then I can
       have the full address, email, phone numbers.
-
----
 
 ### Volunteer page
 
@@ -60,6 +58,8 @@ These tasks are prioritized based on their importance and values.
 
 ## Should-Haves
 
+---
+
 ### home page
 
 > these will complete the user experience, but are not necessary
@@ -70,8 +70,6 @@ These tasks are prioritized based on their importance and values.
 - [ ] As a user I want to see more information about the impact of hack your
       future community in Belgium.
 
----
-
 ### Program page
 
 - [ ] As a user I want to see the information about 9-month program.
@@ -79,17 +77,21 @@ These tasks are prioritized based on their importance and values.
 - [ ] As a user I want to see the information become a mentor and the career
       skills sessions.
 
----
-
 ### Volunteer page
 
 - [ ] As a user I would like to see the section why should I volunteer at HYF,
       so that I can understand the aim of the program.
 - [ ] As a user, I would like to access the 'Discover Our Coaches Guidebook'
       section so that I can read about the dedication of the coaches and be
-      inspired as a volunteer
+      inspired as a volunteer.
+
+---
 
 ## Could-Haves
+
+---
+
+### home page
 
 > would be really cool ... if there's time
 
@@ -98,3 +100,18 @@ These tasks are prioritized based on their importance and values.
 - [ ] As a user I want to see more information about the supporters of the
       program.
 - [ ] As a user I want to see a the core values of the website.
+
+### Program page
+
+- [ ] As a user I would like to see am image on the side of the every section of
+      the program, then page will be very descriptive.
+- [ ] As a user, I would like to see the logos of the languages featured in the
+      9-months program section, so that it is clear which languages will be the
+      focus.
+
+### Volunteer page
+
+- [ ] As a user I would like to see the image of the coaches on the side of
+      discover our coaches guidebook section.
+
+---
