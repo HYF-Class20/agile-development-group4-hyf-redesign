@@ -22,29 +22,36 @@ and provide clear information on the curriculum and goals.
 
 ## Navigation Bar
 
-Navigation link should be at top so that I can access to different pages.
+- Navigation link should be at top so that I can access to different pages.
 
 ## Website Title
 
-The title should be centered on the page, with a button labled "Apply" placed
-below the title.
+- The title should be centered on the page, with a button labled "Apply" placed
+  below the title.
 
 ## Program
 
-To position the program section to the left of the main section using the
-appropriate CSS properties and values.
+- To position the program section to the left of the main section using the
+  appropriate CSS properties and values.
 
 ## Success Story
 
-> As a user I want to see the success stories from previous graduates, so
-> that...I feel inspired by their journeys. Styling with CSS
+- As a user I want to see the success stories from previous graduates, so
+  that...I feel inspired by their journeys. Styling with CSS
 
 ## Contact us
 
-"Contact Us" section on a website's home page. This section can provide visitors
-with easy access to information on how to get in touch with the organization
-behind the website.
+> "Contact Us" section on a website's home page. This section can provide
+> visitors with easy access to information on how to get in touch with the
+> organization behind the website.
 
-Styled with HTML input typr "email", "phone-number"...
+- Styled with HTML input typr "email", "phone-number"...
 
 ## Footer
+
+As a user I want to see the footer section in the every page.
+
+- Having a footer can enhance the user experience by providing easy access to
+  important information, such as the website's navigation, contact information,
+  and social media profiles, which can improve the overall usability of the
+  website.
