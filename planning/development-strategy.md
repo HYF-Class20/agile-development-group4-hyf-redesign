@@ -1,55 +1,57 @@
-# Project Name
+# Hack Your Future redesign
 
-<!-- describe your project -->
-
----
-
-## Setup
-
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+The Hack Your Future website is a modern and user-friendly platform that
+showcases the 9-month web development program in Brussels and Antwerp, featuring
+updated layout, navigation, and content to better serve students and coaches,
+and provide clear information on the curriculum and goals.
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+## setup
+
+- [ ] Html file
+- [ ] Page title in the file
+- [ ] empty css
+- [ ] Css file is link to Html
 
 ## user story
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
-> "as a ... i can ... so that ..."
+> "As a user I want to see the logo and the title"
 
-<!-- write any extra notes or description -->
+## Navigation Bar
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- Navigation link should be at top so that I can access to different pages.
 
-### Logic: user story
+## Website Title
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- The title should be centered on the page, with a button labled "Apply" placed
+  below the title.
 
-### Interface: user story
+## Program
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- To position the program section to the left of the main section using the
+  appropriate CSS properties and values.
 
-### Interaction: user story
+## Success Story
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- As a user I want to see the success stories from previous graduates, so
+  that...I feel inspired by their journeys. Styling with CSS
 
-### Documentation: user story
+## Contact us
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+> "Contact Us" section on a website's home page. This section can provide
+> visitors with easy access to information on how to get in touch with the
+> organization behind the website.
+
+- Styled with HTML input typr "email", "phone-number"...
+
+## Footer
+
+As a user I want to see the footer section in the every page.
+
+- Having a footer can enhance the user experience by providing easy access to
+  important information, such as the website's navigation, contact information,
+  and social media profiles, which can improve the overall usability of the
+  website.
