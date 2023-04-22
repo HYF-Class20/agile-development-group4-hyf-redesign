@@ -33,3 +33,7 @@
 - We underestimated the complexity of some of the tasks, but we've managed to
   complete them.
 
+### Did you need to add things that weren't in your strategy?
+
+- No, we did not have to add any extra steps.
+
