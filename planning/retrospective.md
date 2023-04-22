@@ -16,3 +16,9 @@
 - Start having more structured meetings to plan and review the sprints.
 - Start sharing our knowledge and expertise within the team.
 
+## Lessons Learned
+
+- Breaking down into smaller tasks can help to better estimate the time and
+  effort required to complete them.
+- Communication is key to avoid misunderstandings and work more efficiently.
+
