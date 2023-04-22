@@ -9,4 +9,3 @@
 - Continue to have a prioritized list of tasks and focus on delivering the most
   important first.
 
-
