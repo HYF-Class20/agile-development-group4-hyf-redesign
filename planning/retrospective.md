@@ -20,3 +20,11 @@
   effort required to complete them.
 - Communication is key to avoid misunderstandings and work more efficiently.
 
+## Strategy vs. Board
+
+### What parts of your plan went as expected?
+
+- We were able to deliver all the user stories we had planned for this sprint.
+- We had a clear prioritization of the tasks, which helped us to focus on the
+  most important assignments first.
+
