@@ -30,3 +30,9 @@
 - We had a clear prioritization of the tasks, which helped us to focus on the
   most important assignments first.
 
+### What parts of your plan did not work out?
+
+- We underestimated the complexity of some of the tasks, but we've managed to
+  complete them.
+
+
