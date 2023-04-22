@@ -39,4 +39,4 @@
 
 ### Or remove extra steps?
 
-- No, we did not have to remove any extra steps.
+- No, we did not have to remove any extra steps
