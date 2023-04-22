@@ -1,8 +1,6 @@
 # User Personas
 
-## **Student**
-
-![Zara](https://images.unsplash.com/photo-1520026002484-291a7c42f41b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+## **New immigrant**
 
 **Name**: Zara
 
@@ -22,7 +20,7 @@ in coding, and decided to apply.
   into her new community
 - To build a network of peers and mentors who can support her through the
   program and beyond
-- To gain experience and confidence in the field of technology Frustrations:
+- To gain experience and confidence in the field of technology
 
 **Frustrations**:
 
@@ -54,9 +52,7 @@ journeys. She also sees a link to a Slack channel for students and joins the
 group, looking forward to chatting with her classmates and sharing tips and
 resources.
 
-## **IT Senior/Coach**
-
-![Dilan](https://images.unsplash.com/photo-1529701870190-9ae4010fd124?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2804&q=80)
+## **Web developer coach**
 
 **Name**: Bart
 
