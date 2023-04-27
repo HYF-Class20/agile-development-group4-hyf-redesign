@@ -1,0 +1,47 @@
+body {
+  margin: 5px;
+  padding: 0;
+  background: white;
+}
+
+ul {
+  padding: 3%;
+  margin: auto;
+  list-style: none;
+}
+
+nav {
+  width: 100%;
+  overflow: auto;
+  background: gray;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  width: 200px;
+  display: block;
+  padding: 15px 15px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: blanchedalmond;
+  text-align: center;
+}
+
+li a:hover {
+  border-radius: 1rem;
+  color: white;
+  text-shadow: 2px 2px 4px brown;
+  background: lightblue;
+  text-transform: uppercase;
+}
+
+.logo img {
+  height: 5rem;
+  width: 8rem;
+  position: absolute;
+  margin-top: 1rem;
+  margin-left: 25rem;
+}
