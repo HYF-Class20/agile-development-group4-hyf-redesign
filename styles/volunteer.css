@@ -10,11 +10,15 @@ ul {
   list-style: none;
 }
 
+/* adjusting the nav bar */
+
 nav {
   width: 100%;
   overflow: auto;
   background: gray;
 }
+
+/* floating to the right for the nav links */
 
 li {
   float: right;
@@ -30,6 +34,8 @@ li a {
   text-align: center;
 }
 
+/* adding hover styling to the nav links */
+
 li a:hover {
   border-radius: 1rem;
   color: white;
@@ -37,6 +43,8 @@ li a:hover {
   background: lightblue;
   text-transform: uppercase;
 }
+
+/* adding the logo and adjusting the positing using rem */
 
 .logo img {
   height: 5rem;
