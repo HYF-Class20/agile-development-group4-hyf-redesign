@@ -29,7 +29,24 @@ li a {
   padding: 15px 15px;
   text-decoration: none;
   font-family: arial;
-  color: white;
+  color: blanchedalmond;
   text-align: center;
 
+}
+
+li a:hover{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  background: lightblue; 
+  text-transform: uppercase;
+
+}
+
+.logo img {
+  height: 5rem;
+  width: 8rem;
+  position: absolute;
+  margin-top: 1rem;
+  margin-left: 25rem;
+  
 }
