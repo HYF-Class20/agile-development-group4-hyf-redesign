@@ -53,3 +53,17 @@ li a:hover {
   margin-top: 1rem;
   margin-left: 25rem;
 }
+
+/* Styling the title and intro */
+
+h1 {
+  text-align: center;
+  color: blue;
+  margin-top: 100px;
+}
+
+.Intro {
+  text-align: center;
+  margin-top: 30px;
+  font-family: Tahoma, sans-serif;
+}
