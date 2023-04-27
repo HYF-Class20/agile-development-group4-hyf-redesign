@@ -1,0 +1,35 @@
+body {
+  margin: 5px;
+  padding: 0;
+  background: white;
+
+}
+
+ul {
+  padding: 3%;
+  margin: auto;
+  list-style: none;
+  
+}
+
+nav {
+  width: 100%;
+  overflow: auto;
+  background: gray;
+ 
+}
+
+li {
+  float: right;
+}
+
+li a {
+  width: 200px;
+  display: block;
+  padding: 15px 15px;
+  text-decoration: none;
+  font-family: arial;
+  color: white;
+  text-align: center;
+
+}
