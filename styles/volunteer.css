@@ -156,6 +156,7 @@ h1 {
 /* Added margins, background to footer */
 
 .footer-content {
+  padding: 50px;
   height: 300px;
   margin-top: 50px;
   background-color: gray;
