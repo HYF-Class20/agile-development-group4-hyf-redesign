@@ -102,3 +102,53 @@ h1 {
   justify-content: space-between;
   padding: 40px;
 }
+
+/* Styling Anthony's bio and his img making side to side and added shadows */
+
+.anthony_img {
+  width: 500px;
+  margin-left: 200px;
+}
+
+.bio {
+  box-shadow: 2px 2px 5px lightblue;
+  box-shadow: -2px -2px -5px lightblue;
+  width: 500px;
+  height: 300px;
+  margin: 80px 400px 20px 1px;
+  font-size: larger;
+}
+
+.anthony {
+  padding: 25px;
+  border-style: outset;
+  border-width: 1px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 10px 20px 10px;
+}
+
+/* coding mentor Eleni bio's and img added shadows adjusting the position */
+
+.eleni_img {
+  width: 500px;
+  margin-left: 400px;
+}
+
+.eleni-bio {
+  box-shadow: 2px 2px 5px lightblue;
+  box-shadow: -2px -2px -5px lightblue;
+  width: 500px;
+  height: 300px;
+  margin: 80px 300px 20px 0;
+  font-size: larger;
+}
+
+.eleni {
+  padding: 25px;
+  border-style: outset;
+  border-width: 1px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 10px 20px 10px;
+}
