@@ -126,3 +126,30 @@ h1 {
   justify-content: space-between;
   margin: 20px 100px 20px 100px;
 }
+
+/* coding mentor Eleni bio's and img added shadows adjusting the position */
+
+.eleni_img {
+  width: 500px;
+  margin-left: 400px;
+
+}
+
+.eleni-bio {
+  box-shadow: 2px 2px 5px lightblue;
+  box-shadow: -2px -2px -5px lightblue;
+  width: 500px;
+  height: 300px;
+  margin: 80px 300px 20px 0;
+  font-size: larger;
+
+}
+
+.eleni {
+  padding: 25px;
+  border-style: outset;
+  border-width: 1px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 10px 20px 10px;
+}
