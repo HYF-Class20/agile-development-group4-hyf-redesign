@@ -4,7 +4,7 @@
   "editor.tabSize": 2,
   "files.autoSave": "onFocusChange",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "liveServer.settings.port": 5504,
+  "liveServer.settings.port": 5505,
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
